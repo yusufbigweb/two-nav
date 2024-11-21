@@ -3,6 +3,7 @@
 const openBtn = document.querySelector('.open');
 const btnSign = document.querySelector(".btn")
 
+console.log('yusuf')
 
 // Event Function
 
